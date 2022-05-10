@@ -1,0 +1,39 @@
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\4\Source\Repos\Arduino\server\bin\Debug\server.exe.config
+C:\Users\4\Source\Repos\Arduino\server\bin\Debug\server.exe
+C:\Users\4\Source\Repos\Arduino\server\bin\Debug\server.pdb
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.Form1.resources
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.exe
+C:\Users\4\Source\Repos\Arduino\server\obj\Debug\server.pdb
+C:\Users\4\Desktop\Arduino\server\bin\Debug\server.exe.config
+C:\Users\4\Desktop\Arduino\server\bin\Debug\server.exe
+C:\Users\4\Desktop\Arduino\server\bin\Debug\server.pdb
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.Form1.resources
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.exe
+C:\Users\4\Desktop\Arduino\server\obj\Debug\server.pdb
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\server.exe.config
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.exe
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.pdb
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\server.exe
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\server.pdb
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\mscorlib.dll
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\System.Net.Http.dll
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\System.Net.Http.xml
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\ko\mscorlib.resources.dll
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\ko\System.Net.Http.resources.dll
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\normidna.nlp
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\normnfc.nlp
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\normnfd.nlp
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\normnfkc.nlp
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\bin\Debug\normnfkd.nlp
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.Form1.resources
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.Properties.Resources.resources
+J:\마이크로 2019\마이크로 최종 프로젝트\소켓\server\obj\Debug\server.csproj.GenerateResource.Cache
